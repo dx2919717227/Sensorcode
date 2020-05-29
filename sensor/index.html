@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>配置终端</title>
+</head>
+
+<body style="text-align:center;background:#f8fffbb2;">
+    <h1>配置页面</h1>
+    <form action="/config" method="get">
+        <label>SSID(English)</label>
+        <input type="text" name="ssid"/>
+        <br />
+        <label>Password</label>
+        <input type="password" name="pwd"/>
+        <br />
+        <label>Socket IP</label>
+        <input type="text" name="ip"/>
+        <br />
+        <label>Socket Port</label>
+        <input type="text" name="port" />
+        <br />
+        <label>Interval(second)</label>
+        <input type="text" name="interval" value="5"/>
+        <br />
+        <input type="submit" value="确认" style="background:#678df9;height:40px;width:60px;border-radius:5px;border:none;outline:none;"/>
+    </form>
+</body>
+<style>
+    input{
+        margin-bottom:30px;
+    }
+</style>
+</html>

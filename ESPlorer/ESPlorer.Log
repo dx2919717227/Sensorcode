@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392324</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392328</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392334</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392379</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392382</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392383</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392385</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392543</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392547</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:12</date>
+  <millis>1575100392548</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:15</date>
+  <millis>1575100395961</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open file GY-30.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:15</date>
+  <millis>1575100395962</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File name: C:\Users\A\Desktop\esp8266代码\GY-30.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:15</date>
+  <millis>1575100395966</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to load file GY-30.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:16</date>
+  <millis>1575100396002</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Loading GY-30.lua: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:16</date>
+  <millis>1575100396004</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open "GY-30.lua": Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:18</date>
+  <millis>1575100398172</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open file HC-SR04.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:18</date>
+  <millis>1575100398172</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File name: C:\Users\A\Desktop\esp8266代码\HC-SR04.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:18</date>
+  <millis>1575100398174</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to load file HC-SR04.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:18</date>
+  <millis>1575100398183</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Loading HC-SR04.lua: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:18</date>
+  <millis>1575100398184</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open "HC-SR04.lua": Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:19</date>
+  <millis>1575100399976</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open file init.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:19</date>
+  <millis>1575100399976</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File name: C:\Users\A\Desktop\esp8266代码\init.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:19</date>
+  <millis>1575100399977</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to load file init.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:19</date>
+  <millis>1575100399983</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Loading init.lua: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:19</date>
+  <millis>1575100399984</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open "init.lua": Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:21</date>
+  <millis>1575100401633</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open file SR505.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:21</date>
+  <millis>1575100401634</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File name: C:\Users\A\Desktop\esp8266代码\SR505.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:21</date>
+  <millis>1575100401635</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to load file SR505.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:21</date>
+  <millis>1575100401641</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Loading SR505.lua: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:21</date>
+  <millis>1575100401641</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open "SR505.lua": Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:23</date>
+  <millis>1575100403521</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open file wifi.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:23</date>
+  <millis>1575100403522</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File name: C:\Users\A\Desktop\esp8266代码\wifi.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:23</date>
+  <millis>1575100403523</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to load file wifi.lua</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:23</date>
+  <millis>1575100403530</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Loading wifi.lua: Success.</message>
+</record>
+<record>
+  <date>2019-11-30T15:53:23</date>
+  <millis>1575100403530</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open "wifi.lua": Success.</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:51</date>
+  <millis>1575101151354</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:51</date>
+  <millis>1575101151357</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:51</date>
+  <millis>1575101151357</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:53</date>
+  <millis>1575101153434</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:53</date>
+  <millis>1575101153435</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:53</date>
+  <millis>1575101153435</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2019-11-30T16:05:53</date>
+  <millis>1575101153447</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+</log>
